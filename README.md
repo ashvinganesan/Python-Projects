@@ -1,2 +1,1 @@
-# Sedgwick
-Algorithms
+# Union Find Algorithms
